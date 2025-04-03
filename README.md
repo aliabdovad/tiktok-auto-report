@@ -1,6 +1,6 @@
 # tiktok-auto-report
 
-A powerful tool for reporting facebook accounts page groups.
+A powerful tool for reporting tiktok accounts user
 
 Telegram: https://t.me/tiktokrepsn
 
