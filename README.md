@@ -6,8 +6,8 @@ Telegram: https://t.me/tiktokrepsn
 
 
 # INFO
-- USERS up to 310k 
+- USERS up to 310k f
 
-- 220k proxies
+- 220k proxiesf
   
 Telegram: https://t.me/tiktokrepsn
